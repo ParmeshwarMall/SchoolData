@@ -1,0 +1,23 @@
+/* ShowSchools.css */
+.schools-container {
+    padding: 20px;
+    background-color: antiquewhite;
+  }
+  .card{
+    width: 18rem;
+    margin-top: 30px;
+  }
+  .card-title{
+    font-weight: bold;
+  }
+
+  .card-text{
+    margin: 0px;
+  }
+
+  .schools-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
